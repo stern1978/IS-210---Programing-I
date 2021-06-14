@@ -1,0 +1,999 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R /F5 6 0 R /F6 7 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font >>
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/YOUR-USERNAME/some-repository-name.git) >> /Border [ 0 0 0 ] /Rect [ 82.69291 280.5736 369.4329 292.5736 ] /Subtype /Link /Type /Annot >>
+endobj
+9 0 obj
+<< /Annots [ 8 0 R ] /Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+10 0 obj
+<< /Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+11 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/) >> /Border [ 0 0 0 ] /Rect [ 192.7629 159.0236 223.8829 171.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+12 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/) >> /Border [ 0 0 0 ] /Rect [ 389.6451 141.0236 421.1709 153.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+13 0 obj
+<< /A << /S /URI /Type /Action /URI (https://github.com/) >> /Border [ 0 0 0 ] /Rect [ 353.4813 129.0236 386.9992 141.0236 ] /Subtype /Link /Type /Annot >>
+endobj
+14 0 obj
+<< /Annots [ 11 0 R 12 0 R 13 0 R ] /Contents 30 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 
+  /Trans <<  >> /Type /Page >>
+endobj
+15 0 obj
+<< /Contents 31 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 27 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+16 0 obj
+<< /Outlines 18 0 R /PageLabels 32 0 R /PageMode /UseNone /Pages 27 0 R /Type /Catalog >>
+endobj
+17 0 obj
+<< /Author () /CreationDate (D:20160204004658+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+  /Title (Code Submission Guidelines) >>
+endobj
+18 0 obj
+<< /Count 9 /First 19 0 R /Last 20 0 R /Type /Outlines >>
+endobj
+19 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 674.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (Overview) >>
+endobj
+20 0 obj
+<< /Count 6 /Dest [ 9 0 R /XYZ 62.69291 599.0236 0 ] /First 21 0 R /Last 26 0 R /Parent 18 0 R /Prev 19 0 R 
+  /Title (Workflow Steps) >>
+endobj
+21 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 393.0236 0 ] /Next 22 0 R /Parent 20 0 R /Title (Getting the Starter Code) >>
+endobj
+22 0 obj
+<< /Dest [ 9 0 R /XYZ 62.69291 267.8236 0 ] /Next 23 0 R /Parent 20 0 R /Prev 21 0 R /Title (Enter the Newly Created Local Repository) >>
+endobj
+23 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 765.0236 0 ] /Next 24 0 R /Parent 20 0 R /Prev 22 0 R /Title (Begin Work) >>
+endobj
+24 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 341.0236 0 ] /Next 25 0 R /Parent 20 0 R /Prev 23 0 R /Title (Running Tests) >>
+endobj
+25 0 obj
+<< /Dest [ 10 0 R /XYZ 62.69291 174.6236 0 ] /Next 26 0 R /Parent 20 0 R /Prev 24 0 R /Title (Saving your Work) >>
+endobj
+26 0 obj
+<< /Dest [ 14 0 R /XYZ 62.69291 195.0236 0 ] /Parent 20 0 R /Prev 25 0 R /Title (Submission) >>
+endobj
+27 0 obj
+<< /Count 4 /Kids [ 9 0 R 10 0 R 14 0 R 15 0 R ] /Type /Pages >>
+endobj
+28 0 obj
+<< /Length 6440 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 4 Tm 96.57488 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Code Submission Guidelines) Tj T* -96.57488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 33.58937 0 Td (College:) Tj T* -33.58937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (CUNY School of Professional Studies) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 4.69937 0 Td (Course-Name:) Tj T* -4.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Software Application Programming I) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 686.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 6.92937 0 Td (Course-Code:) Tj T* -6.92937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (IS 210) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 653.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 611.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .242927 Tw (This is a rough outline of the pull request workflow process used throughout this course in the submission) Tj T* 0 Tw 1.613735 Tw (of coding assignments. For a more in-depth analysis of the pull request workflow, see the Week Two) Tj T* 0 Tw (materials in the course site.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 578.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Workflow Steps) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 536.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .233488 Tw 12 TL /F1 10 Tf 0 0 0 rg (To get access to the starter code, you must first ) Tj /F3 10 Tf (Fork ) Tj /F1 10 Tf (the starter repo on ) Tj /F3 10 Tf 0 0 0 rg (GitHub ) Tj /F1 10 Tf 0 0 0 rg (and then clone the newly) Tj T* 0 Tw .846654 Tw (created repository to your working machine. The link to the starter repository is found in the body of the) Tj T* 0 Tw (assignment in the Course site.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 524.0236 cm
+Q
+q
+1 0 0 1 62.69291 441.0236 cm
+.960784 .960784 .862745 rg
+n 0 83 469.8898 -83 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 57 Tm  T* ET
+q
+1 0 0 1 16 52 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Warning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.218651 Tw (Be careful about which repository you are forking. Make sure you fork only your specific course) Tj T* 0 Tw (section repository.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 83 m 469.8898 83 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 83 l S
+n 469.8898 0 m 469.8898 83 l S
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 3.297318 Tw (Once you've forked the starter code to your personal GitHub repository, open a terminal in your) Tj T* 0 Tw (development environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Getting the Starter Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 341.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( git clone HTTPS_CLONE_URL) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 297.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.916651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Where ) Tj /F6 10 Tf 0 0 0 rg (HTTPS_CLONE_URL ) Tj /F1 10 Tf 0 0 0 rg (is the HTTPS Clone Url found on your ) Tj /F3 10 Tf (personal ) Tj /F1 10 Tf (fork of the starter repo.) Tj T* 0 Tw .095868 Tw (Please be cautious and check that you're cloning your repo and not the parent repository. To check, make) Tj T* 0 Tw (sure that your username is in the Clone URL:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.8236 cm
+Q
+q
+1 0 0 1 62.69291 279.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://github.com/YOUR-USERNAME/some-repository-name.git) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 279.8236 cm
+Q
+q
+1 0 0 1 62.69291 249.8236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Enter the Newly Created Local Repository) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 231.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Use the ) Tj /F6 10 Tf 0 0 0 rg (cd ) Tj /F1 10 Tf 0 0 0 rg (command to enter the starter repository directory.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 198.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 12 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (cd ) Tj 0 0 0 rg (some-repository-name) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 166.6236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.458555 Tw 12 TL /F1 10 Tf 0 0 0 rg (Where ) Tj /F6 10 Tf 0 0 0 rg (some-repository-name ) Tj /F1 10 Tf 0 0 0 rg (is the name of the git repository you just clonded. This will change) Tj T* 0 Tw (with each lesson but is found in the Clone URL as the part after the last slash \() Tj /F6 10 Tf 0 0 0 rg (/) Tj /F1 10 Tf 0 0 0 rg (\) and before ) Tj /F6 10 Tf 0 0 0 rg (.git) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 148.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Use ) Tj /F6 10 Tf 0 0 0 rg (ls ) Tj /F1 10 Tf 0 0 0 rg (to see the available files:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 130.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 85.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 192 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( ls) Tj T* .501961 .501961 .501961 rg (LICENSE new_python.py README.rst) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+29 0 obj
+<< /Length 7402 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Begin Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .744198 Tw (You may now begin work. Use whatever editor your prefer to work on and run your code. You may also) Tj T* 0 Tw (use Git Bash to run python files, eg:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 60 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( python new_python.py) Tj T* .501961 .501961 .501961 rg (Some value) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 627.8236 cm
+q
+BT 1 0 0 1 0 26 Tm 1.19936 Tw 12 TL /F1 10 Tf 0 0 0 rg (Remember, you can call your program with ) Tj /F6 10 Tf 0 0 0 rg (python) Tj ( ) Tj (-i ) Tj /F1 10 Tf 0 0 0 rg (to start an interpreter after the program runs.) Tj T* 0 Tw .244692 Tw (This will let you investigate the value of variables which will now be accessible from the python interactive) Tj T* 0 Tw (command line. This is a helpful way to debug your work in progress.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Example ) Tj /F6 10 Tf 0 0 0 rg (new_python.py) Tj /F1 10 Tf 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 36 12 re f*
+.960784 .960784 .862745 rg
+n 42 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 24 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 66 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 12 36 12 re f*
+.960784 .960784 .862745 rg
+n 120 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 60 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf 0 0 0 rg (my_var) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('Some value') Tj 0 0 0 rg  T* 0 0 0 rg (my_new_var) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj 0 0 0 rg (my_var) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg  T* /F5 10 Tf 0 .501961 0 rg (print) Tj /F6 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (my_new_var) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 507.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 120 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( python -i myprogram.py) Tj T* .501961 .501961 .501961 rg (Some valueSome value) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 438.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 60 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 36 0 12 re f*
+.960784 .960784 .862745 rg
+n 24 36 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 36 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 60 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 12 0 12 re f*
+.960784 .960784 .862745 rg
+n 24 12 30 12 re f*
+.960784 .960784 .862745 rg
+n 60 12 60 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 120 12 re f*
+BT 1 0 0 1 0 38 Tm 12 TL /F5 10 Tf 0 0 .501961 rg (>) Tj (>) Tj (>) Tj ( ) Tj 0 .501961 0 rg (print) Tj /F6 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (my_var) Tj 0 0 0 rg  T* .501961 .501961 .501961 rg (Some Value) Tj T* /F5 10 Tf 0 0 .501961 rg (>) Tj (>) Tj (>) Tj ( ) Tj 0 .501961 0 rg (print) Tj /F6 10 Tf 0 0 0 rg ( ) Tj 0 0 0 rg (my_new_var) Tj 0 0 0 rg  T* .501961 .501961 .501961 rg (Some valueSome value) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 418.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You may also launch the IDLE Python editor, the preferred editor of this course, from Git Bash.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 385.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( idle new_python.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .370542 Tw 12 TL /F1 10 Tf 0 0 0 rg (This works the same whether you're accessing an existing Python file or want to create a new Python file) Tj T* 0 Tw (called ) Tj /F6 10 Tf 0 0 0 rg (new_python.py) Tj /F1 10 Tf 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Running Tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 293.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.608935 Tw (After confirming your code works, it's always a good idea to run tests locally to see if the tests catch) Tj T* 0 Tw (something you didn't. In most cases, you can use the test script provided with your repository:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 259.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( ./runtests.sh) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 239.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (You can also PyLint files directly if syntax is all that you're after:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 206.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( pylint myprogram.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 186.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Where ) Tj /F6 10 Tf 0 0 0 rg (myprogram.py ) Tj /F1 10 Tf 0 0 0 rg (is the name of the file you with to lint.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 156.6236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Saving your Work) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 114.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.03332 Tw (While you are welcome to use any pattern you wish, I recommend saving your work after each task by) Tj T* 0 Tw 1.296654 Tw (issuing a commit. Then, when you're finished for a coding session, issuing a push to save the work in) Tj T* 0 Tw (GitHub, just in case something happens do your developer machine in the interim.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 96.62362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (To save your work, first check what files have changed in your repository.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+30 0 obj
+<< /Length 6955 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 571.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 192 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 168 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 156 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 144 318 12 re f*
+.960784 .960784 .862745 rg
+n 0 132 288 12 re f*
+.960784 .960784 .862745 rg
+n 0 120 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 108 180 12 re f*
+.960784 .960784 .862745 rg
+n 0 96 90 12 re f*
+.960784 .960784 .862745 rg
+n 96 96 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 96 24 12 re f*
+.960784 .960784 .862745 rg
+n 126 96 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 96 228 12 re f*
+.960784 .960784 .862745 rg
+n 0 84 138 12 re f*
+.960784 .960784 .862745 rg
+n 144 84 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 84 24 12 re f*
+.960784 .960784 .862745 rg
+n 174 84 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 84 270 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 60 198 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 90 12 re f*
+.960784 .960784 .862745 rg
+n 96 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 24 24 12 re f*
+.960784 .960784 .862745 rg
+n 126 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 24 252 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 126 12 re f*
+BT 1 0 0 1 0 170 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( git status) Tj T* .501961 .501961 .501961 rg (On branch master) Tj T* (Your branch is ahead of 'origin/master' by 3 commits.) Tj T* (  \(use "git push" to publish your local commits\)) Tj T*  T* (Changes not staged for commit:) Tj T* (  \(use "git add ) Tj (<) Tj (file) Tj (>) Tj (..." to update what will be committed\)) Tj T* (  \(use "git checkout -- ) Tj (<) Tj (file) Tj (>) Tj (..." to discard changes in working directory\)) Tj T*  T* (        modified:   old_python.py) Tj T*  T* (Untracked files:) Tj T* (  \(use "git add ) Tj (<) Tj (file) Tj (>) Tj (..." to include in what will be committed\)) Tj T*  T* (        new_python.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 539.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .363876 Tw 12 TL /F1 10 Tf 0 0 0 rg (Now add the files you've recently worked on to staging. The ) Tj /F6 10 Tf 0 0 0 rg (add ) Tj /F1 10 Tf 0 0 0 rg (command adds changes, not files, so it) Tj T* 0 Tw (must be used to add new and existing files alike.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 506.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( git add new_python.py old_python.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 486.6236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F6 10 Tf 0 0 0 rg (git) Tj ( ) Tj (status ) Tj /F1 10 Tf 0 0 0 rg (again to check that the files have been added.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 345.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 132 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 108 6 12 re f*
+.960784 .960784 .862745 rg
+n 0 96 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 84 318 12 re f*
+.960784 .960784 .862745 rg
+n 0 72 288 12 re f*
+.960784 .960784 .862745 rg
+n 0 60 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 144 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 132 12 re f*
+.960784 .960784 .862745 rg
+n 138 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 36 24 12 re f*
+.960784 .960784 .862745 rg
+n 168 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 36 96 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 198 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 198 12 re f*
+BT 1 0 0 1 0 110 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( git status) Tj T* .501961 .501961 .501961 rg (On branch master) Tj T* (Your branch is ahead of 'origin/master' by 3 commits.) Tj T* (  \(use "git push" to publish your local commits\)) Tj T*  T* (Changes to be committed:) Tj T* (  \(use "git reset HEAD ) Tj (<) Tj (file) Tj (>) Tj (..." to unstage\)) Tj T*  T* (        modified:   new_python.py) Tj T* (        modified:   old_python.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 325.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Everything looks good, so commit your changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 292.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 264 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( git commit -m ) Tj .729412 .129412 .129412 rg ("Here's my commit message about what I did.") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 272.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (This saves your work locally. Now lets push it to our remote repository.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 239.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F5 10 Tf 0 0 .501961 rg ($) Tj /F6 10 Tf 0 0 0 rg ( git push origin) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 207.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .567132 Tw (You may repeat the steps in this section as many times as you need or want as you iterate your work or) Tj T* 0 Tw (respond to test results.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 159.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Code should be submitted to ) Tj 0 0 .501961 rg (GitHub ) Tj 0 0 0 rg (by means of opening a pull request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 117.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .405868 Tw 12 TL /F1 10 Tf 0 0 0 rg (As-of Lesson 02, each student will have a branch named after his or her ) Tj 0 0 .501961 rg (GitHub ) Tj 0 0 0 rg (username. Pull requests) Tj T* 0 Tw 2.39784 Tw (should be made against the ) Tj /F2 10 Tf (base ) Tj /F1 10 Tf (branch that matches your ) Tj 0 0 .501961 rg (GitHub ) Tj 0 0 0 rg (username. Pull requests made) Tj T* 0 Tw (against other branches will be closed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .399988 Tw (For a refresher on how to open a pull request, please see the pull request video in the Week Two course) Tj T* 0 Tw (materials.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+31 0 obj
+<< /Length 734 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .794651 Tw (In order to receive full credit you must complete the assignment as-instructed and without any violations) Tj T* 0 Tw .501235 Tw (\(reported in the build status\). There will be automated tests for this assignment to provide early feedback) Tj T* 0 Tw (on program code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.153876 Tw 12 TL /F1 10 Tf 0 0 0 rg (When you have completed this assignment, please post the link to your ) Tj /F3 10 Tf (pull request ) Tj /F1 10 Tf (in the body of the) Tj T* 0 Tw (assignment on Blackboard in order to receive credit.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+32 0 obj
+<< /Nums [ 0 33 0 R 1 34 0 R 2 35 0 R 3 36 0 R ] >>
+endobj
+33 0 obj
+<< /S /D /St 1 >>
+endobj
+34 0 obj
+<< /S /D /St 2 >>
+endobj
+35 0 obj
+<< /S /D /St 3 >>
+endobj
+36 0 obj
+<< /S /D /St 4 >>
+endobj
+xref
+0 37
+0000000000 65535 f
+0000000075 00000 n
+0000000159 00000 n
+0000000269 00000 n
+0000000384 00000 n
+0000000502 00000 n
+0000000624 00000 n
+0000000737 00000 n
+0000000845 00000 n
+0000001057 00000 n
+0000001284 00000 n
+0000001494 00000 n
+0000001669 00000 n
+0000001844 00000 n
+0000002019 00000 n
+0000002262 00000 n
+0000002472 00000 n
+0000002581 00000 n
+0000002818 00000 n
+0000002895 00000 n
+0000003007 00000 n
+0000003165 00000 n
+0000003293 00000 n
+0000003450 00000 n
+0000003578 00000 n
+0000003709 00000 n
+0000003843 00000 n
+0000003958 00000 n
+0000004042 00000 n
+0000010539 00000 n
+0000017998 00000 n
+0000025010 00000 n
+0000025800 00000 n
+0000025871 00000 n
+0000025908 00000 n
+0000025945 00000 n
+0000025982 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(}\336\266\345\222\3624\240\211\236\237*\006f\220v) (}\336\266\345\222\3624\240\211\236\237*\006f\220v)]
+ /Info 17 0 R /Root 16 0 R /Size 37 >>
+startxref
+26019
+%%EOF
