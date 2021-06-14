@@ -1,2 +1,3 @@
-# IS-210---Programing-I
+# IS-210-Application-Programing-I
  CUNY SPS Class
+The ability to write software programs is a critical skill in the IS field. Students are introduced to the fundamental concepts and terms of computer science that are necessary to program software, with an emphasis on problem-solving and algorithm development. Concepts such as data types, control structures, modular organization, and object-oriented programming, using practical examples that highlight the design, implementation, and testing phases of programming, are explained. Important topics such as program documentation, input/output considerations, and information assurance are stressed. Students build several well-documented and well-designed integratable code modules to present in class.
